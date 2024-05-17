@@ -26,4 +26,3 @@ const numbers = processArray([1, 2, 3, 4]);
 const formattedStrings = formatArrayStrings(strings, numbers); 
 console.log(formattedStrings);
 // the formatted strings gives us [ 'king', 'FRED', 'sheep', 'CAT' ]
-
